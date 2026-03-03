@@ -44,5 +44,3 @@ class Carnivore(Animal):
 
         if other.health > 0:
             other.take_damage(50)
-
-
